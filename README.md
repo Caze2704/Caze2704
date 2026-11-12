@@ -1,6 +1,6 @@
 <div align="center">
   <h2>E aí, eu sou o Dudu! ✌️</h2>
-  <p>Desenvolvedor Full-Stack | Criando soluções web, APIs e chatbots</p>
+  <p>Desenvolvedor Full-Stack | Criando soluções web e APIs</p>
 </div>
 
 ---

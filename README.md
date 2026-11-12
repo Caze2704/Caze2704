@@ -7,9 +7,9 @@
 
 ### 🚀 Sobre mim
 
-🎓 Estudante de Ciências e Tecnologia na **UFRN**.
-💻 Desenvolvedor na **Include Engenharia**, focado em construir aplicações web completas e interfaces dinâmicas.
-🌱 Atualmente focando as energias em desenvolver do zero novas aplicações full-stack mais robustas (como um sistema escolar e uma API de gestão familiar).
+🎓 Estudante de Ciências e Tecnologia na **UFRN**.<br>
+💻 Desenvolvedor na **Include Engenharia**, focado em construir aplicações web completas e interfaces dinâmicas.<br>
+🌱 Atualmente focando as energias em desenvolver do zero novas aplicações full-stack mais robustas (como um sistema escolar e uma API de gestão familiar).<br>
 🎯 Sempre buscando evoluir minha base no ecossistema JavaScript/Node e, recentemente, me aventurando em novos desafios com Java.
 
 ---

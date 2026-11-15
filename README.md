@@ -9,8 +9,8 @@
 
 🎓 Estudante de Ciências e Tecnologia na **UFRN**.<br>
 💻 Desenvolvedor na **Include Engenharia**, focado em construir aplicações web completas e interfaces dinâmicas.<br>
-🌱 Atualmente focando as energias em desenvolver do zero novas aplicações full-stack mais robustas (como um sistema escolar e uma API de gestão familiar).<br>
-🎯 Sempre buscando evoluir minha base no ecossistema JavaScript/Node e, recentemente, me aventurando em novos desafios com Java.
+🌱 Atualmente me aprofundando em **NestJS** e **TypeScript**.<br>
+🎯 Dedicando meu tempo a desenvolver do zero aplicações full-stack mais robustas e escaláveis.
 
 ---
 
@@ -23,3 +23,9 @@
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+---
+
+### 📌 Projetos em destaque
+
+🔗 **[family-assist-API](https://github.com/Caze2704/family-assist-API)** — API REST multi-tenant para gestão familiar com autenticação e controle de acesso por perfis, desenvolvida com Node.js, Express, Sequelize e PostgreSQL.
